@@ -1,16 +1,16 @@
 {
   "main.css": "/react-starter/static/css/main.a9be1492.chunk.css",
-  "main.js": "/react-starter/static/js/main.23d3bef2.chunk.js",
-  "main.js.map": "/react-starter/static/js/main.23d3bef2.chunk.js.map",
+  "main.js": "/react-starter/static/js/main.13bcd4bb.chunk.js",
+  "main.js.map": "/react-starter/static/js/main.13bcd4bb.chunk.js.map",
   "static/css/1.f859a83f.chunk.css": "/react-starter/static/css/1.f859a83f.chunk.css",
   "static/js/1.d2c9bbc0.chunk.js": "/react-starter/static/js/1.d2c9bbc0.chunk.js",
   "static/js/1.d2c9bbc0.chunk.js.map": "/react-starter/static/js/1.d2c9bbc0.chunk.js.map",
   "runtime~main.js": "/react-starter/static/js/runtime~main.18eedbb6.js",
   "runtime~main.js.map": "/react-starter/static/js/runtime~main.18eedbb6.js.map",
-  "static/css/main.a9be1492.chunk.css.map": "/react-starter/static/css/main.a9be1492.chunk.css.map",
-  "static/media/logo.svg": "/react-starter/static/media/logo.5d5d9eef.svg",
   "static/css/1.f859a83f.chunk.css.map": "/react-starter/static/css/1.f859a83f.chunk.css.map",
+  "static/media/logo.svg": "/react-starter/static/media/logo.5d5d9eef.svg",
+  "static/css/main.a9be1492.chunk.css.map": "/react-starter/static/css/main.a9be1492.chunk.css.map",
   "index.html": "/react-starter/index.html",
-  "precache-manifest.34376c3ebf30268b18d0b527dd5746ae.js": "/react-starter/precache-manifest.34376c3ebf30268b18d0b527dd5746ae.js",
+  "precache-manifest.be2666dcb1d96eac4a7398bc03939dcb.js": "/react-starter/precache-manifest.be2666dcb1d96eac4a7398bc03939dcb.js",
   "service-worker.js": "/react-starter/service-worker.js"
 }
