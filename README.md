@@ -9,7 +9,7 @@ This repository contains the basic repository for React apps used by the We Conn
 
 ## Use
 
-See [create-react-app.md].
+See [create-react-app.md](./create-react-app.md).
 
 ## Requirements
 
