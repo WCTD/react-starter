@@ -1,6 +1,11 @@
 # React Starter Kit for We Connect The Dots Codeathons
 
-This repository contains the basic repository for React apps used by the We Connect the Dots Codeathons. The initial configuration was created using `npx create-react-app .`.
+This repository contains the basic repository for React apps used by the We Connect the Dots Codeathons. The initial configuration was created using `npx create-react-app .`, and uses a good portion of the default "app.js" template but with the following changes:
+
+* Bootstrap and `reactstrap` are added to allow for simple theming
+* `react-router-dom` is added to enable hash-based URL routing
+* Two basic routes are already added (the index page and the about page)
+* Deployment to Github Pages is supported via `npm run deploy`
 
 ## Use
 

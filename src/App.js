@@ -21,10 +21,10 @@ class App extends Component {
       <Router>
         <div className="App">
           <Navbar color="light" light>
-            <NavbarBrand href="/#/">Starter Kit</NavbarBrand>
+            <NavbarBrand href="#/">Starter Kit</NavbarBrand>
             <Nav>
               <NavItem>
-                <NavLink href="/#/about">About</NavLink>
+                <NavLink href="#/about">About</NavLink>
               </NavItem>
               <NavItem>
                 <NavLink href="https://www.we-connect-the-dots.org/">WCTD Home</NavLink>
